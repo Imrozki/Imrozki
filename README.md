@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Imrozki
+- 👋 Hi, I’m Waqas
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning python3
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - amanimroz@gmail.com
 
 <!---
