@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Waqas
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning python3
 - 📫 How to reach me - amanimroz@gmail.com
 
 <!---
